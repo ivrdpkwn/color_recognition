@@ -18,11 +18,11 @@ pip install opencv-python
 python color_recognition.py
 
 ## 文件结构
-color_recognition/
-├─ color_recognition.py
-├─ README.md
-├─ example1.png
-└─ example2.png
+color_recognition/  
+├─ color_recognition.py  
+├─ README.md  
+├─ example1.png  
+└─ example2.png  
 
 ## 示例效果
 实时显示摄像头中心点颜色及 HSV 值
